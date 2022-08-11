@@ -1,6 +1,6 @@
 {
-  "token": "BotTokenHere", 
-  "prefix": "PrefixHere",
+  "token": "MTAwNzI5OTUzNTU0NDAwNDc1OA.G9DUuN.dneOaSiHC0Ok_ObtteQGVOkpsKBtjrqqcp0M0c", 
+  "prefix": "b/",
   "everyoneMention": false,
-  "hostedBy": true
+  "hostedBy": false
 }
